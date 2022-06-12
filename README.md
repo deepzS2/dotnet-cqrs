@@ -1,5 +1,5 @@
 <h1 align="center">CQRS with Mediator</h1>
-Simple shop API made with .NET 6 using the concepts of **CQRS** and **Mediator pattern**
+<p align="center">Simple shop API made with .NET 6 using the concepts of <b>CQRS</b> and <b>Mediator pattern</b></p>
 
 &nbsp;
 
